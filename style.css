@@ -1,0 +1,30 @@
+body {
+  background-color: cadetblue;
+
+}
+
+h1 {
+  background-color: darkgoldenrod;
+  text-align: center;
+  padding: 40px
+}
+
+nav li {
+  font-size: 20px; 
+  font-style: oblique;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#drums {
+  width: 500px;
+}
+#guitar {
+  width: 500px;
+
+}
+
+#lynx {
+  width: 500px;
+  height: 400px;
+  
+}
